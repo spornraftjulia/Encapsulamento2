@@ -1,5 +1,5 @@
 public class Pessoa {
-    
+
     private String nome;
     private int idade;
     private String celular;
@@ -15,7 +15,7 @@ public class Pessoa {
     }
 
 
-    public int setIdade(){
+    public int getIdade(){
         return this.idade;
     }
     public void setIdade(int idade){
